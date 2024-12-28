@@ -6,6 +6,7 @@
   <img align="center" src="https://img.shields.io/badge/version-1.0.0-blue">
   <img align="center" src="https://img.shields.io/badge/maintainer-Zeldown-orange">
   <img align="center" src="https://img.shields.io/maintenance/yes/9999">
+  <img align="center" src="https://github.com/Zeldown/Annotated-Validator/actions/workflows/test.yml/badge.svg">
 </div>
 
 <br>
